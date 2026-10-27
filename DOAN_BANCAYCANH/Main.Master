@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="DOAN_BANCAYCANH.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Shop Bán Cây Cảnh</title>
+    <link rel="stylesheet" href="css/site.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class =" myrow"> 
+            <div class ="coltrai">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            </div>
+            <div class=" colphai">
+
+                <table style="width:100%;">
+                    <tr>
+                        <td colspan="2" style ="text-align: center;">ĐĂNG NHẬP</td>
+                    </tr>
+                    <tr>
+                        <td>Tên đăng nhập</td>
+                        <td>
+                            <asp:TextBox ID="tk" runat="server"></asp:TextBox>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Mật khẩu</td>
+                        <td>
+                            <asp:TextBox ID="pass" runat="server" TextMode="Password"></asp:TextBox>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <input id="Checkbox1" type="checkbox" />Lưu thông tin đăng nhập</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <asp:Button ID="Button1" runat="server" BackColor="#28A745" BorderColor="White" BorderStyle="Inset" ForeColor="White" OnClick="Button1_Click" Text="Đăng nhập" />
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>

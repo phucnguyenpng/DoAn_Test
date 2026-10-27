@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\web.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|solutionrelative:web.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|c:\\users\\admin\\downloads\\doan_bancaycanh_1\\doan_bancaycanh\\viewsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|solutionrelative:viewsanpham.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|solutionrelative:viewsanpham.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewgiohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|solutionrelative:viewgiohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewgiohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|solutionrelative:viewgiohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\web.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|solutionrelative:web.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E198489E-A77E-4C83-A0A5-7E6AC6412D6C}|DOAN_BANCAYCANH.csproj|solutionrelative:css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 326,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\Web.aspx",
+              "RelativeDocumentMoniker": "Web.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\Web.aspx",
+              "RelativeToolTip": "Web.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T20:02:22.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\Web.aspx.cs",
+              "RelativeDocumentMoniker": "Web.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\Web.aspx.cs",
+              "RelativeToolTip": "Web.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:53:10.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "viewGioHang.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewGioHang.aspx",
+              "RelativeDocumentMoniker": "viewGioHang.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewGioHang.aspx",
+              "RelativeToolTip": "viewGioHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T19:27:33.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "viewGioHang.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewGioHang.aspx.cs",
+              "RelativeDocumentMoniker": "viewGioHang.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewGioHang.aspx.cs",
+              "RelativeToolTip": "viewGioHang.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCgAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:38:59.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewSanPham.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewSanPham.aspx.cs",
+              "RelativeDocumentMoniker": "viewSanPham.aspx.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewSanPham.aspx.cs",
+              "RelativeToolTip": "viewSanPham.aspx.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAnwIkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:24:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "viewSanPham.aspx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewSanPham.aspx",
+              "RelativeDocumentMoniker": "viewSanPham.aspx",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\viewSanPham.aspx",
+              "RelativeToolTip": "viewSanPham.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-11T20:04:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\css\\site.css",
+              "RelativeDocumentMoniker": "css\\site.css",
+              "ToolTip": "C:\\Users\\ADMIN\\Downloads\\DOAN_BANCAYCANH_1\\DOAN_BANCAYCANH\\css\\site.css",
+              "RelativeToolTip": "css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T08:55:53.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
